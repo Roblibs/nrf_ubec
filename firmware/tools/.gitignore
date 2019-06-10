@@ -1,0 +1,4 @@
+__pycache__
+nrf52_public.c
+app_dfu_package.zip
+settings.hex
